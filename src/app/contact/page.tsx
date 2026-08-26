@@ -9,7 +9,7 @@ import PageTransition from "@/components/PageTransition";
 export const metadata: Metadata = {
   title: "Contact & Directions",
   description:
-    "Reach Mistvale Munnar over WhatsApp or phone, find us on the map, and plan your drive from Kochi or Munnar town.",
+    "Reach Mistro Munnar over WhatsApp or phone, find us on the map, and plan your drive from Kochi or Munnar town.",
   alternates: { canonical: "/contact" },
 };
 

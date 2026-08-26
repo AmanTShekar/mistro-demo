@@ -6,7 +6,7 @@ import PageTransition from "@/components/PageTransition";
 export const metadata: Metadata = {
   title: "Gallery",
   description:
-    "Photos from around Mistvale Munnar — misty mornings, tea gardens, cottages, bonfires and the view from every stay.",
+    "Photos from around Mistro Munnar — misty mornings, tea gardens, cottages, bonfires and the view from every stay.",
   alternates: { canonical: "/gallery" },
 };
 

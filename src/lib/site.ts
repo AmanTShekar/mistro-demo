@@ -1,17 +1,17 @@
 export const site = {
-  name: "Mistvale Munnar",
-  legalName: "Mistvale Resorts & Cottages",
+  name: "Mistro Munnar",
+  legalName: "Mistro Resorts & Cottages",
   tagline: "Wake up above the clouds.",
   description:
     "A boutique misty-hill resort in Munnar, Kerala with valley-view rooms and private tea-garden cottages. Clean, quiet stays, warm Kerala hospitality and enquiries over WhatsApp.",
-  url: "https://mistvalemunnar.com",
+  url: "https://mistromunnar.com",
   phoneDisplay: "+91 98765 43210",
   phoneHref: "+919876543210",
   whatsappNumber: "919876543210",
   whatsappDisplay: "+91 98765 43210",
-  email: "stay@mistvalemunnar.com",
+  email: "stay@mistromunnar.com",
   address: {
-    street: "Mistvale Road, Chithirapuram",
+    street: "Mistro Road, Chithirapuram",
     locality: "Munnar",
     region: "Kerala",
     postalCode: "685565",

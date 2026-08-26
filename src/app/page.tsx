@@ -145,12 +145,12 @@ export default function Home() {
           <div>
             <SectionHeading
               align="left"
-              kicker="Welcome to Mistvale"
+              kicker="Welcome to Mistro"
               title="A quiet corner above the tea gardens"
             />
             <Reveal delay={120}>
               <p className="mt-5 leading-relaxed text-slate">
-                 Mistvale isn’t a big hotel — and that’s the point. A handful of rooms and cottages spread across a
+                Mistro isn’t a big hotel — and that’s the point. A handful of rooms and cottages spread across a
                 hillside property, run by a small team that genuinely cares. Everything is kept spotless, breakfast is
                  cooked to order, and the loudest thing you’ll hear is the wind in the eucalyptus.
               </p>
@@ -213,7 +213,7 @@ export default function Home() {
         <div className="mx-auto w-full max-w-7xl px-5 sm:px-8">
           <SectionHeading
             dark
-            kicker="The Mistvale way"
+            kicker="The Mistro way"
             title="Simple comforts, done properly"
             sub="No gimmicks — just the things that make a mountain stay feel easy."
           />

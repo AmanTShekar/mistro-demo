@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Mistvale Munnar — boutique resort and cottages in Munnar, Kerala";
+export const alt = "Mistro Munnar — boutique resort and cottages in Munnar, Kerala";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -70,7 +70,7 @@ export default function OgImage() {
               margin: 0,
             }}
           >
-            MISTVALE · MUNNAR
+            MISTRO · MUNNAR
           </p>
         </div>
 
