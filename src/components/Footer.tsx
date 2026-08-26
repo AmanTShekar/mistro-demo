@@ -9,7 +9,9 @@ export default function Footer() {
       <div className="mx-auto grid w-full max-w-7xl gap-12 px-5 py-16 sm:px-8 md:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1.3fr] lg:py-20">
         <div>
           <p className="font-display text-2xl font-semibold text-cloud">{site.name}</p>
-          <p className="mt-1 text-[10px] font-semibold uppercase tracking-[0.42em] text-cloud/50">Munnar · Kerala</p>
+          <p className="mt-1 text-[10px] font-semibold uppercase tracking-[0.42em] text-cloud/50">
+            {site.address.locality} · {site.address.region}
+          </p>
           <p className="mt-5 max-w-xs text-sm leading-relaxed text-cloud/65">
             A small, quiet resort above the tea gardens — clean rooms, private cottages and misty mornings since {site.established}.
           </p>

@@ -59,7 +59,7 @@ export default function Intro() {
           className="hero-rise mt-3 text-[10px] font-semibold uppercase tracking-[0.5em] text-slate"
           style={{ animationDelay: "480ms" }}
         >
-          Munnar · Kerala
+          {site.address.locality} · {site.address.region}
         </p>
       </div>
     </div>

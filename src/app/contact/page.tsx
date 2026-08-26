@@ -9,7 +9,7 @@ import PageTransition from "@/components/PageTransition";
 export const metadata: Metadata = {
   title: "Contact & Directions",
   description:
-    "Reach Mistro Munnar over WhatsApp or phone, find us on the map, and plan your drive from Kochi or Munnar town.",
+    "Reach Mistro Vattavada over WhatsApp or phone, find us on the map, and plan your drive from Kochi, Munnar, or Top Station.",
   alternates: { canonical: "/contact" },
 };
 
@@ -120,7 +120,7 @@ export default function ContactPage() {
         <div className="mx-auto w-full max-w-7xl px-5 sm:px-8">
           <Reveal>
             <iframe
-              title={`Map showing ${site.name}, Munnar`}
+              title={`Map showing ${site.name}, ${site.address.locality}`}
               src={site.mapsEmbedUrl}
               loading="lazy"
               allowFullScreen

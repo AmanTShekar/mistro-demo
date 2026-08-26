@@ -104,7 +104,7 @@ export const stays: Stay[] = [
     view: "Cliff-edge valley view",
     tagline: "Just the two of you, and the clouds.",
     description: [
-      "At the quietest edge of the property, Cloud Nine is built for two. The cottage hides behind silver oak and coffee shrubs, opening onto a private deck that floats above the valley, arguably the best seat in Munnar for both sunrises and stargazing.",
+      "At the quietest edge of the property, Cloud Nine is built for two. The cottage hides behind silver oak and coffee shrubs, opening onto a private deck that floats above the valley, arguably the best seat in Vattavada for both sunrises and stargazing.",
       "We keep the romance effortless: flower decoration on arrival, a candlelight dinner under the stars on request, and a breakfast hamper delivered to your deck. Celebrating something special? Tell us on WhatsApp and we'll set it up.",
     ],
     highlights: [

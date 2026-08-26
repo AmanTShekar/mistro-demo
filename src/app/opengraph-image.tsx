@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Mistro Munnar — boutique resort and cottages in Munnar, Kerala";
+export const alt = "Mistro Vattavada — boutique resort and cottages in Vattavada, Kerala";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -70,7 +70,7 @@ export default function OgImage() {
               margin: 0,
             }}
           >
-            MISTRO · MUNNAR
+            MISTRO · VATTAVADA
           </p>
         </div>
 
@@ -87,7 +87,7 @@ export default function OgImage() {
             Wake up above the clouds.
           </p>
           <p style={{ fontSize: 28, color: "#5B6B70", margin: 0 }}>
-            Valley-view rooms & private tea-garden cottages in Munnar, Kerala.
+            Valley-view rooms & private cottages in Vattavada, Kerala.
           </p>
         </div>
 

@@ -6,19 +6,19 @@ import PageTransition from "@/components/PageTransition";
 export const metadata: Metadata = {
   title: "Gallery",
   description:
-    "Photos from around Mistro Munnar — misty mornings, tea gardens, cottages, bonfires and the view from every stay.",
+    "Photos from around Mistro Vattavada — misty mornings, terraced hills, cottages, bonfires and the view from every stay.",
   alternates: { canonical: "/gallery" },
 };
 
 const items = [
-  { src: "/images/hero.svg", alt: "Morning mist over the Munnar valley", cat: "Property" },
-  { src: "/images/g-01.svg", alt: "Still lake mirroring the hills", cat: "Around Munnar" },
+  { src: "/images/hero.svg", alt: "Morning mist over the Vattavada valley", cat: "Property" },
+  { src: "/images/g-01.svg", alt: "Still lake mirroring the hills", cat: "Around Vattavada" },
   { src: "/images/stay-tea.svg", alt: "Tea Garden Cottage sit-out", cat: "Property" },
-  { src: "/images/g-03.svg", alt: "The road winding through tea gardens", cat: "Around Munnar" },
+  { src: "/images/g-03.svg", alt: "The road winding through the hills", cat: "Around Vattavada" },
   { src: "/images/g-05.svg", alt: "Sunrise from the ridge above the property", cat: "Sky & Nights" },
-  { src: "/images/g-04.svg", alt: "Pines wrapped in drifting mist", cat: "Around Munnar" },
+  { src: "/images/g-04.svg", alt: "Pines wrapped in drifting mist", cat: "Around Vattavada" },
   { src: "/images/stay-honeymoon.svg", alt: "Cloud Nine Cottage at night", cat: "Property" },
-  { src: "/images/g-02.svg", alt: "A hidden waterfall after the rains", cat: "Around Munnar" },
+  { src: "/images/g-02.svg", alt: "A hidden waterfall after the rains", cat: "Around Vattavada" },
   { src: "/images/g-06.svg", alt: "Fireflies and starlight over the valley", cat: "Sky & Nights" },
 ];
 

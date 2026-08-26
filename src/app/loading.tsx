@@ -10,7 +10,7 @@ export default function Loading() {
             </svg>
           </span>
         </span>
-        <p className="text-[10px] font-semibold uppercase tracking-[0.42em] text-slate">Munnar</p>
+        <p className="text-[10px] font-semibold uppercase tracking-[0.42em] text-slate">Vattavada</p>
       </div>
     </div>
   );

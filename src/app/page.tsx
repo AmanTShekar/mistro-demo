@@ -75,11 +75,11 @@ const faqs = [
   },
   {
     q: "Is food available at the resort?",
-    a: "Yes. We serve home-style Kerala meals (veg and non-veg) on request, plus breakfast. The Cloud Nine cottage includes a breakfast hamper. There are good restaurants in Munnar town, about 15 minutes away.",
+    a: "Yes. We serve home-style Kerala meals (veg and non-veg) on request, plus fresh hill-produce breakfast. The Cloud Nine cottage includes a breakfast hamper.",
   },
   {
     q: "How do we reach the resort?",
-    a: `We're ${distances[0].km} km from Munnar town and about ${distances[4].km} km from Cochin International Airport. Send us a message after booking and we'll share exact location pins and can arrange a taxi pickup.`,
+    a: `We're located in ${site.address.locality}, about ${distances[3].km} km past Munnar via the scenic Top Station road. Send us a message after booking and we'll share exact location pins and can arrange a pickup.`,
   },
   {
     q: "Is the resort suitable for children and elders?",
@@ -339,7 +339,7 @@ export default function Home() {
           </Reveal>
           <Reveal delay={140}>
             <iframe
-              title={`Map showing ${site.name}, Munnar`}
+              title={`Map showing ${site.name}, ${site.address.locality}`}
               src={site.mapsEmbedUrl}
               loading="lazy"
               allowFullScreen

@@ -17,7 +17,7 @@ function Wordmark({ light }: { light?: boolean }) {
         {site.name.split(" ")[0]}
       </span>
       <span className={`mt-1 text-[9px] font-semibold uppercase tracking-[0.42em] ${light ? "text-cloud/70" : "text-slate"}`}>
-        Munnar
+        {site.address.locality}
       </span>
     </Link>
   );

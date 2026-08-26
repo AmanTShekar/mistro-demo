@@ -11,7 +11,7 @@ import PageTransition from "@/components/PageTransition";
 export const metadata: Metadata = {
   title: "Rooms & Cottages",
   description:
-    "Valley-view rooms and private tea-garden cottages in Munnar — from ₹3,499/night. Spotless, quiet and enquiry-ready over WhatsApp.",
+    "Valley-view rooms and private cottages in Vattavada — from ₹3,499/night. Spotless, quiet and enquiry-ready over WhatsApp.",
   alternates: { canonical: "/stays" },
 };
 
