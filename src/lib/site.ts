@@ -45,8 +45,8 @@ export const waDefaultMessage = `Hello ${site.name}! I'd like to enquire about a
 
 export const distances = [
   { place: "Vattavada Village", km: 3 },
+  { place: "Koviloor Organic Terraces", km: 4 },
   { place: "Pampadum Shola National Park", km: 8 },
+  { place: "Kurinjimala Sanctuary", km: 11 },
   { place: "Top Station Viewpoint", km: 12 },
-  { place: "Munnar Town", km: 42 },
-  { place: "Cochin International Airport", km: 140 },
 ];

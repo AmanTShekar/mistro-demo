@@ -79,7 +79,7 @@ const faqs = [
   },
   {
     q: "How do we reach the resort?",
-    a: `We're located in ${site.address.locality}, about ${distances[3].km} km past Munnar via the scenic Top Station road. Send us a message after booking and we'll share exact location pins and can arrange a pickup.`,
+    a: `We're located in ${site.address.locality}, just ${distances[0].km} km from the main village centre. Send us a message after booking and we'll share exact location pins and can arrange a local pickup.`,
   },
   {
     q: "Is the resort suitable for children and elders?",

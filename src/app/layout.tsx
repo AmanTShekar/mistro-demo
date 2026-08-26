@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     "rooms in Vattavada",
     "cottages Vattavada",
     "honeymoon cottage Vattavada",
-    "Munnar Vattavada stay",
+    "Vattavada boutique resort",
     "valley view rooms Kerala",
     site.name,
   ],

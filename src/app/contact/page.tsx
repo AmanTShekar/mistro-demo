@@ -9,7 +9,7 @@ import PageTransition from "@/components/PageTransition";
 export const metadata: Metadata = {
   title: "Contact & Directions",
   description:
-    "Reach Mistro Vattavada over WhatsApp or phone, find us on the map, and plan your drive from Kochi, Munnar, or Top Station.",
+    "Reach Mistro Vattavada over WhatsApp or phone, find us on the map, and plan your stay in the serene hills of Vattavada.",
   alternates: { canonical: "/contact" },
 };
 
