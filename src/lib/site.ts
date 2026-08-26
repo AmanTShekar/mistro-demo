@@ -5,10 +5,10 @@ export const site = {
   description:
     "A boutique misty-hill resort in Vattavada, Kerala with valley-view rooms and private cottages. Clean, quiet stays, warm Kerala hospitality and enquiries over WhatsApp.",
   url: "https://mistro-demo.vercel.app",
-  phoneDisplay: "+91 00000 00000",
-  phoneHref: "+910000000000",
-  whatsappNumber: "910000000000",
-  whatsappDisplay: "+91 00000 00000",
+  phoneDisplay: "+91 90744 50930",
+  phoneHref: "+919074450930",
+  whatsappNumber: "919074450930",
+  whatsappDisplay: "+91 90744 50930",
   email: "demo@mistro.com",
   address: {
     street: "Mistro Hills, Koviloor Road",
