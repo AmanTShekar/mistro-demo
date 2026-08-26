@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6dcb8"/>
+      <stop offset=".55" stop-color="#eab98c"/>
+      <stop offset="1" stop-color="#d89a76"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#dawn)"/>
+  <circle cx="600" cy="440" r="210" fill="#fbeecf" opacity=".35"/>
+  <circle cx="600" cy="440" r="115" fill="#fbeecf"/>
+  <path d="M0 520 L240 430 L480 505 L720 420 L960 510 L1200 440 L1200 800 L0 800 Z" fill="#c08d78" opacity=".5"/>
+  <path d="M0 620 L260 545 L520 615 L780 535 L1020 620 L1200 570 L1200 800 L0 800 Z" fill="#96665b" opacity=".65"/>
+  <path d="M0 710 L300 650 L600 708 L900 655 L1200 705 L1200 800 L0 800 Z" fill="#64464a" opacity=".85"/>
+  <path d="M0 780 L400 745 L800 782 L1200 750 L1200 800 L0 800 Z" fill="#3f3038"/>
+  <g stroke="#4a3438" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M330 300 q13 -17 26 0 q13 -17 26 0"/>
+    <path d="M430 250 q11 -14 22 0 q11 -14 22 0"/>
+    <path d="M820 280 q12 -15 24 0 q12 -15 24 0"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf2ec"/>
+      <stop offset=".4" stop-color="#d6e3da"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#f8fbf9" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#dfeae2"/>
+  <rect width="1200" height="330" fill="url(#sky)"/>
+  <circle cx="600" cy="150" r="90" fill="#f4efdd" opacity=".55"/>
+  <path d="M0 340 L300 300 L600 335 L900 295 L1200 330 L1200 800 L0 800 Z" fill="#7fa08a"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M-20 400 Q600 360 1220 405" stroke="#6d9377" stroke-width="18"/>
+    <path d="M-20 448 Q600 405 1220 452" stroke="#49664f" stroke-width="18"/>
+    <path d="M-20 505 Q600 455 1220 512" stroke="#6d9377" stroke-width="20"/>
+    <path d="M-20 572 Q600 515 1220 580" stroke="#47634d" stroke-width="22"/>
+    <path d="M-20 650 Q600 585 1220 660" stroke="#63856a" stroke-width="24"/>
+    <path d="M-20 742 Q600 668 1220 752" stroke="#44604a" stroke-width="28"/>
+  </g>
+  <rect x="-20" y="290" width="1240" height="130" fill="url(#mist)"/>
+  <g stroke="#3f4a51" stroke-width="4" fill="none" stroke-linecap="round" opacity=".75">
+    <path d="M240 180 q11 -14 22 0 q11 -14 22 0"/>
+    <path d="M320 210 q9 -12 18 0 q9 -12 18 0"/>
+  </g>
+</svg>

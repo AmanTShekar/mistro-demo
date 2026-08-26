@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf2ec"/>
+      <stop offset="1" stop-color="#d2e0d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="600" cy="130" r="110" fill="#f4efdd" opacity=".5"/>
+  <rect y="260" width="1200" height="540" fill="#6f8f74"/>
+  <path d="M588 300 L612 300 L672 800 L528 800 Z" fill="#8b8d84"/>
+  <path d="M596 300 L604 300 L614 340 L586 340 Z" fill="#f2f4ee" opacity=".9"/>
+  <path d="M590 370 L610 370 L618 430 L582 430 Z" fill="#f2f4ee" opacity=".7"/>
+  <path d="M583 470 L617 470 L628 560 L572 560 Z" fill="#f2f4ee" opacity=".6"/>
+  <path d="M572 610 L628 610 L646 740 L554 740 Z" fill="#f2f4ee" opacity=".5"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M-20 320 Q290 305 570 318" stroke="#4c6a52" stroke-width="14"/>
+    <path d="M640 318 Q910 303 1220 320" stroke="#4c6a52" stroke-width="14"/>
+    <path d="M-20 372 Q280 350 560 368" stroke="#63856a" stroke-width="17"/>
+    <path d="M650 368 Q930 350 1220 372" stroke="#63856a" stroke-width="17"/>
+    <path d="M-20 442 Q270 415 550 436" stroke="#4c6a52" stroke-width="21"/>
+    <path d="M660 436 Q940 415 1220 442" stroke="#4c6a52" stroke-width="21"/>
+    <path d="M-20 532 Q250 498 540 524" stroke="#63856a" stroke-width="26"/>
+    <path d="M670 524 Q960 498 1220 532" stroke="#63856a" stroke-width="26"/>
+    <path d="M-20 648 Q230 605 525 638" stroke="#44604a" stroke-width="32"/>
+    <path d="M685 638 Q985 605 1220 648" stroke="#44604a" stroke-width="32"/>
+  </g>
+</svg>

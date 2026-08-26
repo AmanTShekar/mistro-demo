@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3c4a44"/>
+      <stop offset="1" stop-color="#222d27"/>
+    </linearGradient>
+    <linearGradient id="mistband" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef4f0" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#eef4f0" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#eef4f0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <g fill="#33413a">
+    <path d="M140 560 L230 380 L320 560 Z"/>
+    <path d="M300 545 L400 340 L500 545 Z"/>
+    <path d="M480 570 L560 420 L640 570 Z"/>
+    <path d="M760 550 L850 370 L940 550 Z"/>
+    <path d="M900 565 L1000 360 L1100 565 Z"/>
+  </g>
+  <rect x="-60" y="430" width="1320" height="220" fill="url(#mistband)" transform="rotate(-6 600 540)"/>
+  <g fill="#1c2621">
+    <path d="M-40 800 L80 520 L200 800 Z"/>
+    <path d="M150 800 L290 460 L430 800 Z"/>
+    <path d="M400 800 L505 560 L610 800 Z"/>
+    <path d="M640 800 L770 500 L900 800 Z"/>
+    <path d="M880 800 L1010 480 L1140 800 Z"/>
+    <path d="M1080 800 L1180 570 L1280 800 Z"/>
+  </g>
+</svg>
